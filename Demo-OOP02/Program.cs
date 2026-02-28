@@ -85,6 +85,7 @@
 
             #region Computed Property
 
+
             // Console.WriteLine(account.HasBalance);
             #endregion
 
