@@ -90,7 +90,6 @@
             #endregion
 
             #region Init Property
-
             //    BankAccount bank = new BankAccount() { pin = 2345 }; //set
 
             //    Console.WriteLine(bank.pin); // get
