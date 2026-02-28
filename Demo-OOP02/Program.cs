@@ -59,6 +59,7 @@
 
             #region Auto_implement Prop
 
+
             //  public int MyProperty { get; set; }
             //---------------------------------------------
 
