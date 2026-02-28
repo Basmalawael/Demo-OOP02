@@ -25,6 +25,7 @@
             #endregion
 
             #region Encapsulation Using Property
+
             /*
             BankAccount ba1 = new BankAccount();
             //------------------
